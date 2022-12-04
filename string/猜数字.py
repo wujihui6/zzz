@@ -13,4 +13,4 @@ while True:
     else:
         print("猜对了")
         break
-        12
+        123
